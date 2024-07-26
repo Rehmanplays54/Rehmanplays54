@@ -22,11 +22,10 @@
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rehmanplays54&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehmanplays54&theme=dark)
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehmanplays54" alt="rehmanplays54" /></a> </p>
 
